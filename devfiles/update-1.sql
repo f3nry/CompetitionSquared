@@ -1,0 +1,26 @@
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL';
+
+CREATE  TABLE IF NOT EXISTS `lisdcs_uil`.`user_links` (
+  `id` INT(11) NOT NULL ,
+  `type` ENUM('TEAM') NOT NULL ,
+  `object_id` INT(11) NOT NULL ,
+  `user_id` INT(11) NOT NULL ,
+  PRIMARY KEY (`id`) ,
+  INDEX `fk_user_links_users1` (`user_id` ASC) ,
+  CONSTRAINT `fk_user_links_users1`
+    FOREIGN KEY (`user_id` )
+    REFERENCES `lisdcs_uil`.`users` (`id` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1
+COLLATE = latin1_swedish_ci;
+
+ALTER TABLE `lisdcs_uil`.`users` ADD COLUMN `created_by` INT(11) NOT NULL DEFAULT -1  AFTER `account_type` , CHANGE COLUMN `account_type` `account_type` ENUM('PARENT', 'ACCT_CREATOR', 'ADMIN') NOT NULL DEFAULT 'ADMIN'  ;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;

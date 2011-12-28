@@ -1,0 +1,40 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/app/views/main
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-02-04T01:55:03.527847Z
+21
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+index.html.php
+file
+
+
+
+
+2011-03-03T23:06:27.000000Z
+62512bda68d4fe93250781f4e5cdbab1
+2011-02-04T01:55:03.527847Z
+21
+letuboy
+

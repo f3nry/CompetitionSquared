@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/Collection.php
+END
+Entity.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/Entity.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/Model.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/Source.php
+END
+Connections.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/Connections.php
+END

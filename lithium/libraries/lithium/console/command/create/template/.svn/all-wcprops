@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template
+END
+test.txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template/test.txt.php
+END
+model.txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template/model.txt.php
+END
+plugin.phar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template/plugin.phar.gz
+END
+controller.txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template/controller.txt.php
+END
+app.phar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template/app.phar.gz
+END
+mock.txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/console/command/create/template/mock.txt.php
+END

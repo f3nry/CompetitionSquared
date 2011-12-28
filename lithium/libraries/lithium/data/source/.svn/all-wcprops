@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/source
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/source/Mock.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/source/Http.php
+END
+Database.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/source/Database.php
+END
+MongoDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/data/source/MongoDb.php
+END

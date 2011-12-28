@@ -1,0 +1,85 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/data/source
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+http
+dir
+
+Mock.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+0ada8c0f21ff9cf1340d8a02da337daf
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+database
+dir
+
+mongo_db
+dir
+
+Http.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+2896e56cbb79e210b5cd858520c41d59
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+Database.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+f185a2aed0d9f4b71d7e68e7a7bc2e28
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+MongoDb.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+0207d1fe8c9c2847995c7b1f257b0610
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

@@ -1,0 +1,40 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/li3_messy_data/config
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-02-03T02:35:41.196440Z
+18
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+bootstrap.php
+file
+
+
+
+
+2011-02-03T02:37:33.000000Z
+91190db6241311109ec59a72a8d236ad
+2011-02-03T02:35:41.196440Z
+18
+letuboy
+

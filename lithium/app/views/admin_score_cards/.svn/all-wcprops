@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/views/admin_score_cards
+END
+index.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/views/admin_score_cards/index.html.php
+END
+add.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/views/admin_score_cards/add.html.php
+END
+edit.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/views/admin_score_cards/edit.html.php
+END

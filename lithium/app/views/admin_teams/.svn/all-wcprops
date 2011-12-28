@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/views/admin_teams
+END
+index.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/views/admin_teams/index.html.php
+END
+getTeams.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/app/views/admin_teams/getTeams.html.php
+END
+edit.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/views/admin_teams/edit.html.php
+END

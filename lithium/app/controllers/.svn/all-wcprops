@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/controllers
+END
+SchoolController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/15/trunk/lithium/app/controllers/SchoolController.php
+END
+AdminController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/controllers/AdminController.php
+END
+TeamsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/controllers/TeamsController.php
+END
+PagesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/competitionsquared-uil/!svn/ver/6/trunk/lithium/app/controllers/PagesController.php
+END
+AppController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/competitionsquared-uil/!svn/ver/10/trunk/lithium/app/controllers/AppController.php
+END
+MainController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/controllers/MainController.php
+END

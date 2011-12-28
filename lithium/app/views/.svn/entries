@@ -1,0 +1,85 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/app/views
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-03-07T03:52:42.485010Z
+29
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+app
+dir
+
+admin_teams
+dir
+
+admin_import
+dir
+
+admin_schools
+dir
+
+admin_team_types
+dir
+
+main
+dir
+
+accounts_admin
+dir
+
+admin_accounts
+dir
+
+school
+dir
+
+admin
+dir
+
+admin_wizards
+dir
+
+pages
+dir
+
+admin_score_cards
+dir
+
+layouts
+dir
+
+account_admin
+dir
+
+admin_scores
+dir
+
+teams
+dir
+
+elements
+dir
+
+admin_config
+dir
+

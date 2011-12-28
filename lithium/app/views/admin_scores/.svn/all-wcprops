@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/views/admin_scores
+END
+index.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/admin_scores/index.html.php
+END
+add.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/views/admin_scores/add.html.php
+END
+process.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/views/admin_scores/process.html.php
+END
+log.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/admin_scores/log.html.php
+END
+logEntry.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/admin_scores/logEntry.html.php
+END
+add.old.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/views/admin_scores/add.old.html.php
+END
+edit.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/views/admin_scores/edit.html.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/g11n
+END
+CatalogTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/g11n/CatalogTest.php
+END
+LocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/g11n/LocaleTest.php
+END
+MessageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/g11n/MessageTest.php
+END

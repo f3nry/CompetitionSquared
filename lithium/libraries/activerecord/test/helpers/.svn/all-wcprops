@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/test/helpers
+END
+DatabaseLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/test/helpers/DatabaseLoader.php
+END
+SnakeCase_PHPUnit_Framework_TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/test/helpers/SnakeCase_PHPUnit_Framework_TestCase.php
+END
+AdapterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/test/helpers/AdapterTest.php
+END
+DatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/test/helpers/DatabaseTest.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/test/helpers/config.php
+END

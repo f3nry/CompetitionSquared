@@ -1,0 +1,1 @@
+<?php echo $this->html->link('Back to Admin Home', $accountName . '/admin') ?>&nbsp;<?php echo $this->html->link('Back to Manage Scores', $accountName . '/admin/scores') ?>

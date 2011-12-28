@@ -1,0 +1,178 @@
+body {
+    font: 1em Arial, Verdana;
+    color: #c8c8c8;
+    font-size: 95%;
+    background: #2AB082 url(/img/lisd/background.png) repeat-x;
+}
+
+img {
+    border: none;
+}
+
+h1 {
+    color: #00E;
+    margin-bottom:10px;
+    font-size:130%;
+}
+
+h2 {
+    border-bottom: 1px solid #B4C4C9;
+    margin-top: .5em;
+    color: #37da23;
+}
+
+.contents h2 {
+    font-size:120%;
+}
+
+div.header {
+    background: url(/img/lisd/header_overlay.png) no-repeat 0px 0px;
+    width:900px;
+    height:127px;
+}
+
+h2 sub {
+    margin-left: 4px;
+    font-size: 50%;
+    color: blue;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+h4 {
+    margin:0px;
+    padding:0px;
+}
+
+table.data {
+    margin: 8px 0px 16px 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th {
+    text-align: left;
+    padding: 10px 8px;
+    margin: 0px 0px;
+    border-bottom: 2px solid #343434;
+}
+
+table td {
+    padding: 9px 8px;
+    border-bottom: 1px solid #CCC;
+}
+
+table.stylesheets {
+    margin: 8px 0px 16px 0px;
+    border-collapse: collapse;
+}
+
+p {
+    margin: 8px 0px 4px 0px;
+}
+
+form {
+    margin-top:16px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type=text], input[type=password], textarea {
+    padding: 0px;
+    background: white url(/img/form_input_bg.gif) repeat-x;
+    border-color: #7C7C7C #C3C3C3 #DDD;
+    border-style: solid;
+    border-width: 1px;
+    padding: 2px 0px;
+}
+
+input[type=submit] {
+    display: block;
+    margin: 4px 1px;
+}
+
+span.brand {
+    color: #f28033;
+}
+
+div.box {
+    clear:both;
+    color: #555;
+    margin: 0px auto;
+    padding-bottom:20px;
+    border-left: none;
+    border-right: none;
+    width: 900px;
+    background-color:white;
+    min-height:700px;
+}
+
+div.wrapper {
+    background: transparent url(/img/lisd/content_background.png) repeat-y 50% 0%;
+}
+
+div.footer {
+    background: url(/img/lisd/footer.png) no-repeat 0px 0px;
+    height: 67px;
+    margin: 0px auto;
+    padding: 0px 25px;
+    width:900px;
+}
+
+div.footer div {
+    margin: 12px;
+}
+
+div.footer img {
+    margin: 0px 4px;
+    vertical-align: middle;
+}
+
+div.contents {
+    margin: 0.5em;
+}
+
+div.right {
+    float: right;
+}
+
+div.left {
+    float: left;
+}
+
+div.clear {
+    clear: both;
+}
+
+code {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 0.8em;
+    border: 1px solid #B4C4C9;
+    padding: 8px;
+    background-color: #eaf0f2;
+    display: block;
+    margin-bottom: 1.5em;
+}
+
+div.nav {
+    margin: 20px auto;
+    width: 910px;
+}
+
+div.nav a:visited {
+    color: #00E;
+}
+
+a:visited {
+    color: #00E;
+}
+
+p.adminLinkInfo {
+    color:#7d7d7d;
+    font-size: 90%;
+}

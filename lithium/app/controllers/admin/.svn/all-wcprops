@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/controllers/admin
+END
+AdminWizards.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/controllers/admin/AdminWizards.php
+END
+AdminConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/controllers/admin/AdminConfig.php
+END
+AdminScoreCards.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/controllers/admin/AdminScoreCards.php
+END
+AdminTeams.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/app/controllers/admin/AdminTeams.php
+END
+AdminImport.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/18/trunk/lithium/app/controllers/admin/AdminImport.php
+END
+AdminSchools.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/controllers/admin/AdminSchools.php
+END
+AdminTeamTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/competitionsquared-uil/!svn/ver/20/trunk/lithium/app/controllers/admin/AdminTeamTypes.php
+END
+AdminScores.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/controllers/admin/AdminScores.php
+END
+AdminAccounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/controllers/admin/AdminAccounts.php
+END

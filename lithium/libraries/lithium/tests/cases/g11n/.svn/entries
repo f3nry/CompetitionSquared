@@ -1,0 +1,67 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/tests/cases/g11n
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+CatalogTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+cf1a88db92b4e36702c0b19c33bcd57b
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+LocaleTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+920b8ebf97761cb9ebe6164ca0420a2a
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+catalog
+dir
+
+MessageTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+b0978c4660ebd62a64868b3153829039
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

@@ -1,0 +1,40 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/tests/mocks/data/collection
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+MockRecordSet.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+1020ac61fea8cc41f72a475a27c54029
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

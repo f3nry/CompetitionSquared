@@ -1,0 +1,86 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/activerecord
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-02-02T06:38:46.613391Z
+17
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+test
+dir
+
+ActiveRecord.php
+file
+
+
+
+
+2011-01-29T18:37:38.000000Z
+9948d462429de3e197783766308ebb20
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+LICENSE
+file
+
+
+
+
+2011-01-29T18:37:38.000000Z
+a86ed491ced4cc143dc8727c8f562fda
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2011-01-29T18:37:38.000000Z
+8f0b9eff9e0788021cf13610afb2bd7a
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+README.md
+file
+
+
+
+
+2011-01-29T18:37:38.000000Z
+025323df3e650ee46d64e3a8b2d615b2
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+has-props
+
+examples
+dir
+

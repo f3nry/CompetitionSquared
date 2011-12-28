@@ -1,0 +1,64 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/g11n/resources/php
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+nl_BE
+dir
+
+de_DE
+dir
+
+da_DK
+dir
+
+en
+dir
+
+nl_NL
+dir
+
+en_CA
+dir
+
+it_IT
+dir
+
+en_US
+dir
+
+en_GB
+dir
+
+fr_CA
+dir
+
+fr_BE
+dir
+
+de_BE
+dir
+

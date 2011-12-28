@@ -1,0 +1,52 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/tests/cases/data/collection
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+DocumentSetTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+c75164ec6d02ba984d7575889cd90d6b
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+RecordSetTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+1049d44fda69aef5e3dff9f884e3c1d0
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

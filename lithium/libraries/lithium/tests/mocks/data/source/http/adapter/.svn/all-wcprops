@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/source/http/adapter
+END
+MockCouchPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/source/http/adapter/MockCouchPost.php
+END
+MockSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/source/http/adapter/MockSocket.php
+END

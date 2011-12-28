@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core
+END
+MockCallable.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockCallable.php
+END
+MockInstantiator.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockInstantiator.php
+END
+MockAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockAdapter.php
+END
+MockStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockStrategy.php
+END
+MockMethodFiltering.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockMethodFiltering.php
+END
+MockExposed.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockExposed.php
+END
+MockStaticInstantiator.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockStaticInstantiator.php
+END
+MockRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockRequest.php
+END
+MockObjectForParents.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockObjectForParents.php
+END
+MockStaticFilteringExtended.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockStaticFilteringExtended.php
+END
+MockStaticMethodFiltering.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockStaticMethodFiltering.php
+END
+MockObjectConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/core/MockObjectConfiguration.php
+END

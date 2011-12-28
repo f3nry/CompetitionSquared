@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/libraries/activerecord
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/ActiveRecord.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/CHANGELOG
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/README.md
+END

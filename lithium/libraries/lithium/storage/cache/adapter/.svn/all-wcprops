@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter
+END
+XCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter/XCache.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter/File.php
+END
+Memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter/Memcache.php
+END
+Apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter/Apc.php
+END
+Redis.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter/Redis.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/storage/cache/adapter/Memory.php
+END

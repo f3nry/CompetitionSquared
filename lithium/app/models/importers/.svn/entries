@@ -1,0 +1,40 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/app/models/importers
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-02-03T02:35:41.196440Z
+18
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+JOTImporter.php
+file
+
+
+
+
+2011-02-03T02:37:33.000000Z
+64de196f11d46a4c7f5302b00baf32eb
+2011-02-03T02:35:41.196440Z
+18
+letuboy
+

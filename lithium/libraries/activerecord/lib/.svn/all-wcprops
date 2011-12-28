@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/libraries/activerecord/lib
+END
+ConnectionManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/ConnectionManager.php
+END
+CallBack.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/CallBack.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/DateTime.php
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Column.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/libraries/activerecord/lib/Connection.php
+END
+Utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Utils.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Model.php
+END
+Relationship.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Relationship.php
+END
+Singleton.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Singleton.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Cache.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Config.php
+END
+SQLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/SQLBuilder.php
+END
+Validations.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Validations.php
+END
+Reflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Reflections.php
+END
+Serialization.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Serialization.php
+END
+Exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Exceptions.php
+END
+Expressions.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Expressions.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Inflector.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/activerecord/lib/Table.php
+END

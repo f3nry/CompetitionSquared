@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data
+END
+MockCreator.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockCreator.php
+END
+MockModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockModel.php
+END
+MockSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockSource.php
+END
+MockTagging.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockTagging.php
+END
+MockComment.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockComment.php
+END
+MockPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockPost.php
+END
+MockPostForValidates.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockPostForValidates.php
+END
+MockBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockBase.php
+END
+MockTag.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockTag.php
+END
+MockPostObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/mocks/data/MockPostObject.php
+END

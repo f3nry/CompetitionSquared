@@ -1,0 +1,52 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/tests/cases/storage/cache/strategy
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+JsonTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+2c0dfbc5ce685cbcfee1725db88f141b
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+Base64Test.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+6d049cc191af7ece4f548fc2ab069169
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

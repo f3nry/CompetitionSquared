@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core
+END
+Libraries.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/Libraries.php
+END
+Adaptable.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/Adaptable.php
+END
+StaticObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/StaticObject.php
+END
+ClassNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/ClassNotFoundException.php
+END
+ConfigException.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/ConfigException.php
+END
+Environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/Environment.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/Object.php
+END
+ErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/ErrorHandler.php
+END
+NetworkException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/core/NetworkException.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/competitionsquared-uil/!svn/ver/30/trunk/lithium/app/models
+END
+Account.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/competitionsquared-uil/!svn/ver/22/trunk/lithium/app/models/Account.php
+END
+UserLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/models/UserLink.php
+END
+ScoreCardAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/models/ScoreCardAction.php
+END
+ScoreCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/models/ScoreCard.php
+END
+AppConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/app/models/AppConfig.php
+END
+Score.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/competitionsquared-uil/!svn/ver/29/trunk/lithium/app/models/Score.php
+END
+ScoreProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/competitionsquared-uil/!svn/ver/27/trunk/lithium/app/models/ScoreProcessor.php
+END
+TeamTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/competitionsquared-uil/!svn/ver/28/trunk/lithium/app/models/TeamTypes.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/competitionsquared-uil/!svn/ver/17/trunk/lithium/app/models/User.php
+END
+Field.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/models/Field.php
+END
+ScoreDebugLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/models/ScoreDebugLog.php
+END
+Team.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/models/Team.php
+END
+School.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/competitionsquared-uil/!svn/ver/30/trunk/lithium/app/models/School.php
+END
+Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/models/Admin.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/app/models/Permission.php
+END

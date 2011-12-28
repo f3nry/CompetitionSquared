@@ -1,0 +1,52 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/tests/mocks/storage/cache/strategy
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+MockConfigurizer.php
+file
+
+
+
+
+2011-01-29T18:37:38.000000Z
+dfa43ccfba842eb67c0e92c8b32fa043
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+MockSerializer.php
+file
+
+
+
+
+2011-01-29T18:37:38.000000Z
+3badb81b1e2372d72a24fc1f1cb42712
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

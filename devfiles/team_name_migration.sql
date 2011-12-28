@@ -1,0 +1,1 @@
+UPDATE `teams` SET `first_name` = TRIM(SUBSTR(`name` FROM 1 FOR LOCATE(' ', `name`))), `last_name` = TRIM(SUBSTR(`name` FROM LOCATE(' ', `name`)));

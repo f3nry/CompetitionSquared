@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter
+END
+XCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter/XCacheTest.php
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter/FileTest.php
+END
+MemcacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter/MemcacheTest.php
+END
+ApcTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter/ApcTest.php
+END
+RedisTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter/RedisTest.php
+END
+MemoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/competitionsquared-uil/!svn/ver/2/trunk/lithium/libraries/lithium/tests/cases/storage/cache/adapter/MemoryTest.php
+END

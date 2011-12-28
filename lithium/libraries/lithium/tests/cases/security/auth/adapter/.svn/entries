@@ -1,0 +1,52 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/libraries/lithium/tests/cases/security/auth/adapter
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+HttpTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+bd2f93427749a73ab1cb16eb2b8bdc08
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+
+FormTest.php
+file
+
+
+
+
+2011-01-29T18:37:39.000000Z
+ea7719d252e980b3c2ad508862f4c6b0
+2011-01-29T08:55:39.008801Z
+2
+letuboy
+

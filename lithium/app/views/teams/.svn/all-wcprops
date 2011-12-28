@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/teams
+END
+index.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/teams/index.html.php
+END
+view.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/teams/view.html.php
+END
+score.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/competitionsquared-uil/!svn/ver/23/trunk/lithium/app/views/teams/score.html.php
+END
+slideshow.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/competitionsquared-uil/!svn/ver/21/trunk/lithium/app/views/teams/slideshow.html.php
+END

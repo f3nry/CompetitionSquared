@@ -1,0 +1,40 @@
+8
+
+dir
+30
+https://subversion.assembla.com/svn/competitionsquared-uil/trunk/lithium/app/resources
+https://subversion.assembla.com/svn/competitionsquared-uil
+
+
+
+2011-03-03T23:21:45.115905Z
+25
+letuboy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8b8ec125-6b5b-4d38-bc48-d3acaf7a7ab6
+
+sql
+dir
+
+tmp
+dir
+
+g11n
+dir
+
+uploads
+dir
+
